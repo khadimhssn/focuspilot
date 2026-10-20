@@ -1,0 +1,29 @@
+{
+ "name": "FocusPilot \u00b7 ADHD Life Planner",
+ "short_name": "FocusPilot",
+ "description": "ADHD-friendly planner: tasks, focus timer, habits, routines, money, meals and mood.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#F7F5FB",
+ "theme_color": "#7C6CF2",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
